@@ -3,7 +3,7 @@
 #### use Termux or Terminal  
 
  ``` 
- git clone https://github.com/elphador/wcoin.git
+ git clone https://github.com/shihabulislam/wcoin.git
 ```
  ``` 
  cd wcoin
@@ -12,7 +12,7 @@
  pip install -r requirements.txt
 ```
  ```
- python3 wcoin.py
+ update wcoin.py
 ```
 
 ##### Drop star if you liked it
