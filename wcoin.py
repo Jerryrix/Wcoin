@@ -72,11 +72,11 @@ if __name__ == "__main__":
     os.system('cls' if os.name == 'nt' else 'clear')
     create_gradient_banner(banner_text)
     social_media_usernames = [
-        ("CryptoNews", "@ethcryptopia"),
-        ("Auto Farming", "@whywetap"),
-        ("Auto Farming", "@autominerx"),
+        ("@Jerryrix", "@Jerryrix"),
+        ("Auto Farming", "@Jerryrix"),
+        ("Auto Farming", "@Jerryrix"),
         #("", "@"),
-        ("Coder", "@demoncratos"),
+        ("Coder", "@Shihabul islam"),
     ]
     
     print_info_box(social_media_usernames)
